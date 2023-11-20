@@ -1,0 +1,9 @@
+.row{
+    background-color: "white";
+    cursor: pointer;
+    font-family: "Montserrat";
+}
+
+.row:hover{
+    background-color: "white";
+}
